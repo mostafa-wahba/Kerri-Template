@@ -1,0 +1,23 @@
+@media all and (min-width:0) {
+}
+
+@media all and (min-width:576px) {
+}
+
+@media all and (min-width:768px) {
+    
+}
+
+@media all and (min-width:992px) {
+    .card-title{
+        bottom: 1rem;
+        font-size: 1rem;
+        max-width: 9rem;
+    }
+}
+
+@media all and (min-width:1200px) {
+    .container{
+        max-width: 1140px!important;
+    }
+}
